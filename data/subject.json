@@ -1,0 +1,7 @@
+[
+    { "es": "yo", "en": "I", "plural": false },
+    { "es": "tú", "en": "you", "plural": false },
+    { "es": "el/ella", "en": "he/she", "plural": false },
+    { "es": "nosotoros", "en": "we", "plural": true },
+    { "es": "ustedes", "en": "they", "plural": true }
+]
