@@ -1,0 +1,16 @@
+[
+    { "es": "hoy", "en": "today" },
+    { "es": "ahora", "en": "right now" },
+    { "es": "esta mañana", "en": "this morning" },
+    { "es": "esta tarde", "en": "this afternoon" },
+    { "es": "esta noche", "en": "tonight" },
+    { "es": "siempre", "en": "always" },
+    { "es": "a veces", "en": "sometimes" },
+    { "es": "casi nunca", "en": "almost never" },
+    { "es": "mañana", "en": "tomorrow" },
+    { "es": "más tarde", "en": "later" },
+    { "es": "ayer", "en": "yesterday" },
+    { "es": "anoche", "en": "last night" },
+    { "es": "el fin de semana pasado", "en": "last weekend" },
+    { "es": "cuando era niño", "en": "when I was a kid" }
+  ]
